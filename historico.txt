@@ -1,1 +1,15 @@
 Situação 2 - Nova funcionalidade
+
+O que realmente aconteceu?
+Foi criada uma tela onde o usuario consegue visualizar o historico de pedidos.
+
+Foi corrigido um problema?
+Não.
+
+Foi criada uma funcionalidade nova? 
+Sim.
+
+Identifique o tipo: feat
+
+Identifique o escopo:
+A funcionalidade pertence à área: profile
