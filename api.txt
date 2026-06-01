@@ -1,1 +1,20 @@
 Situação 3 - A mudança perigosa
+
+O que realmente aconteceu?
+Antes:
+{
+ "userName": "João"
+}
+
+Depois:
+{
+ "fullName": "João Silva"
+}
+O aplicativo mobile ainda procura o campo: userName
+Portanto ele irá parar de funcionar.
+
+Esta mudança pode quebrar sistemas que usam a API? 
+Sim.
+
+Isso é uma Breaking Change? 
+Sim.
