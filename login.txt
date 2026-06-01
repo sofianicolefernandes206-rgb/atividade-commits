@@ -1,1 +1,13 @@
 Situação 1 - A correção urgente
+
+Foi criada uma funcionalidade nova? 
+Não.
+
+Foi corrigido um problema?
+Sim.
+
+Identifique o tipo: fix
+
+Identifique o escopo:
+Qual area foi afetada?
+login
